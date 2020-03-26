@@ -2,7 +2,8 @@
 2nd Year JAVA Project.
 
 # dijkstra-gui
-A java GUI program to demonstrate Dijkstra Algorithm to find shortest path between two points
+A java GUI program to demonstrate Dijkstra Algorithm to find shortest path between two points. 
+This project can be used as gps system where we can find the shortest path on the basis of length between two point. Here length is stands for distance between two point.
 
 ### Working
 - Allows to create node
